@@ -1,2 +1,2 @@
 # lerobot_adventures
-Robot experiments based on the LeRobot library
+Extending the basic SO-101 arm with new functionality 
