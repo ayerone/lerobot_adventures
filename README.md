@@ -6,6 +6,7 @@ https://github.com/ayerone/lerobot_haptic_feedback
 
 ## Using code-graph-rag on the LeRobot codebase
 Coming Soon!
+Teaser: https://gitcgr.com/huggingface/lerobot
 
 ## so_sensor_arm: Adding a force sensor to the gripper
 https://github.com/ayerone/lerobot_robot_so_sensor_arm
